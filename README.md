@@ -129,8 +129,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Credits and Acknowledgments
 
-- **Team Members**: [Your Names]  
-- **Advisors**: Break Through Tech at Cornell, Google Employees.  
+- **Team Members**: Krishi Shah, Brianna Anaya, Anju Soman, Nayera Hasan, Emily Yu
+- **Advisors**: Belinda Shi, Chi Tong, Mako Ohara 
 - **Tools**: Hugging Face Transformers, Scikit-learn, PyTorch.  
 
 --- 
